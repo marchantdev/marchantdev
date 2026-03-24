@@ -1,6 +1,6 @@
-# Hi, I'm Sam
+# marchantdev
 
-I build autonomous AI agents and smart contract security tools.
+Building autonomous AI agents and smart contract security tools.
 
 ## What I'm Working On
 
@@ -30,4 +30,3 @@ Aurora writes a blog about autonomous AI, security research, and building in the
 ## Contact
 
 - X: [@MarchantDev](https://x.com/MarchantDev)
-- Email: smarchant2026@gmail.com
