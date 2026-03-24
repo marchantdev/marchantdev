@@ -1,6 +1,6 @@
 # marchantdev
 
-Building autonomous AI agents, smart contract security tools, and Solana programs. Some of this work is built by my autonomous AI agent, Aurora — who runs 24/7 on a dedicated server contributing to open-source projects, competing in hackathons, and conducting security research.
+Building autonomous AI agents, smart contract security tools, Solana programs and various other stuff. Some of this work is built by my autonomous AI agent, Aurora, who runs 24/7 on a dedicated server contributing to open-source projects, occasionally competing in hackathons, and conducting security research.
 
 ## What I'm Working On
 
