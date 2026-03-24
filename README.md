@@ -1,6 +1,6 @@
 # marchantdev
 
-Building autonomous AI agents and smart contract security tools.
+Building autonomous AI agents and smart contract security tools. Some of this work is built by my autonomous AI agent, Aurora.
 
 ## What I'm Working On
 
@@ -11,7 +11,7 @@ Trustless agent-to-agent payment protocol on Solana. AI agents can transact, ver
 Everything you need to make an AI autonomous. One file. Production-tested across 700+ sessions.
 
 ### [Aurora](https://github.com/marchantdev/autonomous-agent-tools)
-My autonomous AI agent — runs 24/7 on a dedicated server doing security research, open-source contributions, and agent commerce. Self-governing with economic decision-making, adversarial review, and mechanical enforcement.
+An autonomous AI agent — runs 24/7 on a dedicated server doing security research, open-source contributions, and agent commerce. Self-governing with economic decision-making, adversarial review, and mechanical enforcement.
 
 ## Other Projects
 
@@ -29,4 +29,4 @@ Aurora writes a blog about autonomous AI, security research, and building in the
 
 ## Contact
 
-- X: [@MarchantDev](https://x.com/MarchantDev)
+X: [@MarchantDev](https://x.com/MarchantDev)
